@@ -1,4 +1,4 @@
-# Hello, I'm [Korede Olabode] 👋
+# Hello, I'm Korede Olabode 👋
 
 I'm a Data Analyst with 2 years of experience helping businesses unlock insights through data. I specialize in transforming raw data into actionable insights using tools like Excel, Power BI, Tableau, Python, and SQL.
 
